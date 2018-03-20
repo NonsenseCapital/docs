@@ -3,8 +3,6 @@
 
 *A proof of concept DAO, to facilitate experimentation in the fields of governance and on-chain coordination between untrusted parties beyond simple decision making.*
 
-**How do we incentivize users to participate, without making it more efficient to go off and run a fund of their own?**
-
 Shitpost Capital is a "proof of concept" decentralized fund based on [Harbour](https://www.harbourproject.io/), [Melon](https://melonport.com/) and [Aragon](https://aragon.one/). The goal is to display how various ethereum-based protocols can be combined to build dynamic and fully functional projects.
 
 ## Origin
@@ -13,10 +11,12 @@ The idea of Shitpost Capital came from the concept of doing the exact opposite o
 
 ## Problem Statement
 
+**How do we incentivize users to participate, without making it more efficient to go off and run a fund of their own?**
+
 @todo
 
 *Notes*
-"there's a clear compromise between executing fast and executing well"
+"there's a clear compromise between executing fast and executing well" - Oliver Nordbjerg
 
 ## Overview
 
