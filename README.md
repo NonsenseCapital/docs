@@ -10,6 +10,9 @@ Shitpost Capital is a "proof of concept" decentralized fund based on [Harbour](h
 
 The idea of Shitpost Capital came from the concept of doing the exact opposite of what people talk about doing on crypto-subreddits, this is where the name too originated. Shitpost being an homage to those redditors and the community which has grown around them spanning into other social media including twitter. 
 
+
+<sub>*Whats in a name?*</sub>
+
 ## Overview
 
 The goal of Shitpost Capital is to be purely governed by its token holders without any interference from outside parties. This requires an active community that is provided the various tools needed to fully run such a system. The fund will be a generic [Melonport](https://melonport.com/) fund, where the fund manager is an [Aragon](https://aragon.one/) DAO which is controlled through the voting process facilitated by [Harbour](https://harbourproject.io/), this allows us to piece together the various strengths of all these projects and provide a cohesive ecosystem. The connection between the voting-system and the fund will be easily built on top of aragon using their [ACL system](https://blog.aragon.one/introducing-aragonos-say-hi-to-modular-and-extendable-organizations-8555af1076f3). 
