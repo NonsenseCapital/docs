@@ -47,7 +47,12 @@ There will be a limit placed on the amount of proposals a single user can genera
 
 Shitcoins represent a share in Shitcoin Capital, they can be staked in order to gain voting rights, these rights allow particpants to signal their investment opinions. This allows them to vote on as well as create various proposals. Shitcoins are recieved when a particpant buys into Shitcoin Capital, this is done by paying in a certain amount for which they will be allocated coins at the in proportion to the current value of the fund.
 
-#### Staking :bank:
+### Staking :bank:
 
 The staking contract used by Shitcoin Capital will conform to [ERC900](https://github.com/ethereum/EIPs/pull/910). Most likely the [Stakebank](https://github.com/HarbourProject/stakebank) contracts will be utilized.
+
+### Exiting
+
+A user should be allowed to exit Shitpost Capital at anytime. This will reimburse the user with their respective assets for the amount of shares which they own. To demotivate users from exiting, there *should* be an exit fee which is paid whenever removing assets from the fund.
+
 
