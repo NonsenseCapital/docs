@@ -16,7 +16,7 @@ The governance of Shitpost Capital is the most important aspect, the goal of the
 
 #### Proposal Types
 
-* **ICO Contributions**  This is one of the core proposal types. It is used to diversify assets into different ICOs. This proposal has ‘yes’ or ‘no’ voting options, but in addition, when a holder votes ‘yes’ they can also pick from a range of percentages for how much of the funds holdings they would like to contribute. <br /> <br />
+* **ICO Contributions**  This is one of the core proposal types. It is used to diversify assets into different ICOs. This proposal has ```yes``` or ```no``` voting options, but in addition, when a holder votes ```yes``` they can also pick from a range of percentages for how much of the funds holdings they would like to contribute. <br /> <br />
 One of the issues that needs to be addressed is, if the popular percentage is shared by multiple options. The current solution is that if this ever encounter, an additional voting round will be held.
 
 * **DAO Change**  This gives token holders the ability to 100% change every aspect of the DAO. These proposals execute automatically, and work by changing configuration values on the DAO, such as dividend rates, proposal creation costs etc.
