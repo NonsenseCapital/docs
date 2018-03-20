@@ -15,7 +15,7 @@ The idea of Shitpost Capital came from the concept of doing the exact opposite o
 
 @todo
 
-*Notes*
+*Notes* <br />
 "there's a clear compromise between executing fast and executing well" - Oliver Nordbjerg
 
 ## Overview
