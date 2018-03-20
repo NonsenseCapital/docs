@@ -4,7 +4,7 @@ Shitpost Capital is a "proof of concept" decentralized fund based on [Harbour](h
 
 ## Origin
 
-The concept of Shitpost Capital came from the concept of doing the exact opposite of what people talk about on crypto-subreddits, this is where the name too originated. Shitpost being an homage to those redditors and the community which has grown around them spanning into other social media including twitter. 
+The idea of Shitpost Capital came from the concept of doing the exact opposite of what people talk about doing on crypto-subreddits, this is where the name too originated. Shitpost being an homage to those redditors and the community which has grown around them spanning into other social media including twitter. 
 
 ## Overview
 
