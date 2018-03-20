@@ -1,6 +1,6 @@
 # Shitpost Capital :poop:
 
-Shitpost Capital is a PoC decentralized fund based on [Harbour](https://www.harbourproject.io/), [Melon](https://melonport.com/) and [Aragon](https://aragon.one/). The goal is to display how various ethereum-based protocols can be combined to build dynamic and fully functional projects.
+Shitpost Capital is a "proof of concept" decentralized fund based on [Harbour](https://www.harbourproject.io/), [Melon](https://melonport.com/) and [Aragon](https://aragon.one/). The goal is to display how various ethereum-based protocols can be combined to build dynamic and fully functional projects.
 
 ### Shitcoins :moneybag:
 
