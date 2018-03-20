@@ -1,4 +1,5 @@
 # Shitpost Capital :poop:
+<sub>Whats in a name?</sub> <br />
 
 *A proof of concept DAO, to facilitate experimentation in the fields of governance and on-chain coordination between untrusted parties beyond simple decision making.*
 
@@ -9,9 +10,6 @@ Shitpost Capital is a "proof of concept" decentralized fund based on [Harbour](h
 ## Origin
 
 The idea of Shitpost Capital came from the concept of doing the exact opposite of what people talk about doing on crypto-subreddits, this is where the name too originated. Shitpost being an homage to those redditors and the community which has grown around them spanning into other social media including twitter. 
-
-
-<sub>*Whats in a name?*</sub>
 
 ## Overview
 
