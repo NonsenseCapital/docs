@@ -29,6 +29,18 @@ One of the issues that needs to be addressed is, if the popular percentage is sh
 
 In order for less informed participants to not have to waste their votes, Shitpost Capital will implement a delegation system, currently it is unclear if this will be a liquid system or another form of delegation. But this will essentially allow users to delegate their votes to elected delegates or freely to other users they deem more fit to make decisions on their behalf.
 
+#### Combatting Spam
+
+##### Reputation :trophy:
+
+In a fund based DAO like Shitpost Capital, a reputation system can offer large benefits, however the objectivity in something which is often subjective can be of great difficulty to implement inside of a smart contract. For that reason it can currently not be determined what kind of repuation system the DAO will use.
+
+@TODO more
+
+##### Time Cooldown :hourglass:
+
+There will be a limit placed on the amount of proposals a single user can generate within 24 hours. The time cooldown period has not yet been decided upon, however this too will be one of the attributes that can be modified in the DAO. This along with the staking required to create a proposal will drastically reduce the size of the spam attack surface.
+
 ### Shitcoins :moneybag:
 
 Shitcoins represent a share in Shitcoin Capital, they can be staked in order to gain voting rights, these rights allow particpants to signal their investment opinions. This allows them to vote on as well as create various proposals. Shitcoins are recieved when a particpant buys into Shitcoin Capital, this is done by paying in a certain amount for which they will be allocated coins at the in proportion to the current value of the fund.
@@ -36,8 +48,4 @@ Shitcoins represent a share in Shitcoin Capital, they can be staked in order to 
 #### Staking :bank:
 
 The staking contract used by Shitcoin Capital will conform to [ERC900](https://github.com/ethereum/EIPs/pull/910). Most likely the [Stakebank](https://github.com/HarbourProject/stakebank) contracts will be utilized.
-
-### Reputation :trophy:
-
-@todo
 
