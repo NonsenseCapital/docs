@@ -6,6 +6,15 @@
 
 Shitpost Capital is a "proof of concept" decentralized fund based on [Harbour](https://www.harbourproject.io/), [Melon](https://melonport.com/) and [Aragon](https://aragon.one/). The goal is to display how various ethereum-based protocols can be combined to build dynamic and fully functional projects.
 
+**Potential Benefits**
+ * Hive mind
+ * Less involvement
+ * Pooled assets
+
+**Potential Drawbacks**
+ * Coordination on a large scale
+ * User involvement
+
 ## Origin
 
 The idea of Shitpost Capital came from the concept of doing the exact opposite of what people talk about doing on crypto-subreddits, this is where the name too originated. Shitpost being an homage to those redditors and the community which has grown around them spanning into other social media including twitter. 
