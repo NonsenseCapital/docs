@@ -1,5 +1,5 @@
 # Shitpost Capital :poop:
-<sub>Whats in a name?</sub> <br />
+<sub>What's in a name?</sub> <br />
 
 *A proof of concept DAO, to facilitate experimentation in the fields of governance and on-chain coordination between untrusted parties beyond simple decision making.*
 
