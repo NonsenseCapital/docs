@@ -21,7 +21,7 @@ One of the issues that needs to be addressed is, if the popular percentage is sh
 
 * **DAO Change**  This gives token holders the ability to 100% change every aspect of the DAO. These proposals execute automatically, and work by changing configuration values on the DAO, such as dividend rates, proposal creation costs etc.
 
-* **Buy Proposal** This proposal allows token holders to vote on contributing to an existing Token. This functionality will work automatically through the usage of various exchanges connected to [Melonport](https://melonport.com/). Holders will have the option to vote from a range of 2-10% in increments of 2% for how much ETH they think the fund should use to buy more tokens.
+* **Buy Proposal** This proposal allows token holders to vote on purchasing of an existing token. This functionality will work automatically through the usage of various exchanges connected to [Melonport](https://melonport.com/). Holders will have the option to vote from a range of 2-10% in increments of 2% for how much ETH they think the fund should use to buy more tokens.
 
 * **Sell Proposal** This proposal allows token holders to vote on selling a token the DAO currently holds. It is planned that this functionality also works fully automatically by using decentralized as well as hopefully centralized exchanges connected to [Melonport](https://melonport.com/). Holders will be able to vote from a range of 10-100% in increments of 10% for how many tokens they think fund should sell.
 
