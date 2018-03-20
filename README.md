@@ -45,6 +45,8 @@ One of the issues that needs to be addressed is, if the popular percentage is sh
 
 In order for less informed participants to not have to waste their votes, Shitpost Capital will implement a delegation system, currently it is unclear if this will be a liquid system or another form of delegation. But this will essentially allow users to delegate their votes to elected delegates or freely to other users they deem more fit to make decisions on their behalf.
 
+**Representative democracy with Demarchy aspects?**
+
 #### Combatting Spam
 
 ##### Reputation :trophy:
