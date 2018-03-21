@@ -72,7 +72,7 @@ Shitcoins represent a share in Shitcoin Capital, they can be staked in order to 
 
 ### Sewer :bank:
 
-The sewer is Shitpost Capitals staking mechanism, the contracts used will conform to [ERC900](https://github.com/ethereum/EIPs/pull/910). Most likely the [Stakebank](https://github.com/HarbourProject/stakebank) contracts will be utilized.
+The sewer is Shitpost Capitals staking system, the contracts used will conform to [ERC900](https://github.com/ethereum/EIPs/pull/910). Most likely the [Stakebank](https://github.com/HarbourProject/stakebank) contracts will be utilized. The goal of a staking model is to prevent sybil attacks, as well as require participants to show a certain involvment that motivates them enough to stake their tokens rather than potentially trading them on an open market. Participants should additionally be incentivized to stake, the question that needs to be answered however is how.
 
 ### Exiting
 
