@@ -58,6 +58,10 @@ In order for less informed participants to not have to waste their votes, Shitpo
 
 **Representative democracy with Demarchy aspects?**
 
+#### Optimization of philosophies through Forking
+
+@TODO explain the benefits of forking and potential mechanisms as discussed in https://github.com/ShitpostCapital/docs/issues/2
+
 #### Combatting Spam
 
 ##### Reputation :trophy:
