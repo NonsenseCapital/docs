@@ -1,13 +1,9 @@
-# Shitpost Capital :poop:
+# Nonsense Capital
 <sub>What's in a name?</sub> <br />
 
 *A proof of concept DAO, to facilitate experimentation in the fields of governance and on-chain coordination between untrusted parties beyond simple decision making.*
 
-Shitpost Capital is a "proof of concept" decentralized fund based on [Harbour](https://www.harbourproject.io/), [Melon](https://melonport.com/) and [Aragon](https://aragon.one/). The goal is to display how various ethereum-based protocols can be combined to build dynamic and fully functional projects.
-
-## Origin
-
-The idea of Shitpost Capital came from the concept of doing the exact opposite of what people talk about doing on crypto-subreddits, this is where the name too originated. Shitpost being an homage to those redditors and the community which has grown around them spanning into other social media including twitter. 
+Nonsense Capital is a "proof of concept" decentralized fund based on [Harbour](https://www.harbourproject.io/), [Melon](https://melonport.com/) and [Aragon](https://aragon.one/). The goal is to display how various ethereum-based protocols can be combined to build dynamic and fully functional projects.
 
 ## Problem Statement
 
@@ -66,7 +62,7 @@ In order for less informed participants to not have to waste their votes, Shitpo
 
 ##### Reputation :trophy:
 
-In a fund based DAO like Shitpost Capital, a reputation system can offer large benefits, however the objectivity in something which is often subjective can be of great difficulty to implement inside of a smart contract. For that reason it can currently not be determined what kind of repuation system the DAO will use.
+In a fund based DAO like Nonsense Capital, a reputation system can offer large benefits, however the objectivity in something which is often subjective can be of great difficulty to implement inside of a smart contract. For that reason it can currently not be determined what kind of repuation system the DAO will use.
 
 @TODO more
 
@@ -74,16 +70,16 @@ In a fund based DAO like Shitpost Capital, a reputation system can offer large b
 
 There will be a limit placed on the amount of proposals a single user can generate within 24 hours. The time cooldown period has not yet been decided upon, however this too will be one of the attributes that can be modified in the DAO. This along with the staking required to create a proposal will drastically reduce the size of the spam attack surface.
 
-### Shitcoins :moneybag:
+### Useless Token :moneybag:
 
 Shitcoins represent a share in Shitpost Capital, they can be staked in order to gain voting rights, these rights allow particpants to signal their investment opinions. This allows them to vote on as well as create various proposals. Shitcoins are recieved when a particpant buys into Shitpost Capital, this is done by paying in a certain amount for which they will be allocated coins at the in proportion to the current value of the fund.
 
-### Sewer :bank:
+### Staking
 
-The sewer is Shitpost Capitals staking system, the contracts used will conform to [ERC900](https://github.com/ethereum/EIPs/pull/910). Most likely the [Stakebank](https://github.com/HarbourProject/stakebank) contracts will be utilized. The goal of a staking model is to prevent sybil attacks, as well as require participants to show a certain involvment that motivates them enough to stake their tokens rather than potentially trading them on an open market. Participants should additionally be incentivized to stake, the question that needs to be answered however is how.
+For the staking system, the contracts used will conform to [ERC900](https://github.com/ethereum/EIPs/pull/910). Most likely the [Stakebank](https://github.com/HarbourProject/stakebank) contracts will be utilized. The goal of a staking model is to prevent sybil attacks, as well as require participants to show a certain involvment that motivates them enough to stake their tokens rather than potentially trading them on an open market. Participants should additionally be incentivized to stake, the question that needs to be answered however is how.
 
 ### Exiting
 
-A user should be allowed to exit Shitpost Capital at anytime. This will reimburse the user with their respective assets for the amount of shares which they own. To demotivate users from exiting, there *should* be an exit fee which is paid whenever removing assets from the fund.
+A user should be allowed to exit Nonsense Capital at anytime. This will reimburse the user with their respective assets for the amount of shares which they own. To demotivate users from exiting, there *should* be an exit fee which is paid whenever removing assets from the fund.
 
 
