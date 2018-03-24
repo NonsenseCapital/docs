@@ -62,7 +62,7 @@ In order for less informed participants to not have to waste their votes, Nonsen
 
 ##### Reputation :trophy:
 
-In a fund based DAO like Nonsense Capital, a reputation system can offer large benefits, however the objectivity in something which is often subjective can be of great difficulty to implement inside of a smart contract. For that reason it can currently not be determined what kind of repuation system the DAO will use.
+In a fund based DAO like Nonsense Capital, a reputation system can offer large benefits, however the objectivity in something which is often subjective can be of great difficulty to implement inside of a smart contract. For that reason it can currently not be determined what kind of reputation system the DAO will use.
 
 @TODO more
 
