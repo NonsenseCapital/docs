@@ -39,3 +39,4 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 ## Other
  - Homage to Catalonia
  - [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+ - [Contra Robinson on Public Food](http://slatestarcodex.com/2017/11/21/contra-robinson-on-public-food/)
