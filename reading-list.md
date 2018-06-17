@@ -19,4 +19,5 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - [Governance, Part 2: Plutocracy Is Still Bad](https://vitalik.ca/general/2018/03/28/plutocracy.html)
 
 ## Dispute Resultion
+
 - [A Philosophical Approach to Alternative Dispute Resolution Systems](https://www.mediate.com/articles/SustacZ5.cfm)
