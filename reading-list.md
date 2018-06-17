@@ -4,7 +4,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 
 ## Reputation
 
-- [Wealth Inequality Is Even Worsein Reputation Economies](https://locusmag.com/2016/03/cory-doctorow-wealth-inequality-is-even-worse-in-reputation-economies/)
+- [Wealth Inequality Is Even Worse in Reputation Economies](https://locusmag.com/2016/03/cory-doctorow-wealth-inequality-is-even-worse-in-reputation-economies/)
 - Walkaway by Cory Doctorow
 
 #### Oracles
