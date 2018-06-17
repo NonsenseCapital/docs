@@ -15,6 +15,8 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 ## Governance
 
 - [The Tyranny of Structurelessness](https://static1.squarespace.com/static/555557d5e4b0cc5c1ed71116/t/57e03ffb20099ef5d08202a6/1474314240758/TyrannyStructureless.pdf)
+- [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html)
+- [Governance, Part 2: Plutocracy Is Still Bad](https://vitalik.ca/general/2018/03/28/plutocracy.html)
 
 ## Dispute Resultion
 - [A Philosophical Approach to Alternative Dispute Resolution Systems](https://www.mediate.com/articles/SustacZ5.cfm)
