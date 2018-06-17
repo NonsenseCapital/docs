@@ -10,7 +10,6 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 ## Anarchy?
 
 - Reinventing Anarchy, Again.
-- Homage to Catalonia
 
 ## Governance
 
@@ -26,3 +25,8 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 
 - The Stranger by Albert Camus
 - The Consolation of Philosophy by Ancius Boethius
+
+## Other
+
+- [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+- Homage to Catalonia
