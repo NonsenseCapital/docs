@@ -10,7 +10,6 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 ## Anarchy?
 
 - Reinventing Anarchy, Again.
-- Homage to Catalonia
 
 ## Governance
 
@@ -36,3 +35,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 ## Commons
 
 - [Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503), review and overview of chapter 1 on COST on [Vitalik's review](https://vitalik.ca/general/2018/04/20/radical_markets.html). Chapter 2 on quadratic voting.
+
+## Other
+ - Homage to Catalonia
+ - [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
