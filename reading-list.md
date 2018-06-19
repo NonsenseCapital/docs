@@ -48,12 +48,20 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - [Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503), review and overview of chapter 1 on COST on [Vitalik's review](https://vitalik.ca/general/2018/04/20/radical_markets.html). Chapter 2 on quadratic voting.
 
 ## Game Theory
+
  - [Game theory as a dark art](https://www.lesswrong.com/posts/A2Qam9Bd9xpbb2wLQ/game-theory-as-a-dark-art)
  - Rational Decisions by Ken Binmore
+ 
+## Signalling
+
+ - [The Toxoplasma Of Rage](http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/), good article on rage signalling and the negative outcomes it can have on the cause one is advocating for.
+
+## Human Condition / Society / Think Pieces
+
+ - [This is the dream time](http://www.overcomingbias.com/2009/09/this-is-the-dream-time.html)
+ - [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 ## Other
  - Homage to Catalonia
- - [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
  - [Contra Robinson on Public Food](http://slatestarcodex.com/2017/11/21/contra-robinson-on-public-food/)
- - [This is the dream time](http://www.overcomingbias.com/2009/09/this-is-the-dream-time.html)
  - [Token Engineering Wiki](http://tokenengineering.net)
