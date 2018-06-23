@@ -28,6 +28,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 ## Dispute Resultion
 
 - [A Philosophical Approach to Alternative Dispute Resolution Systems](https://www.mediate.com/articles/SustacZ5.cfm)
+- [http://tomwbell.com/writings/JurisPoly.html](The Jurisprudence Of Polycentric Law)
 
 ## Philosophy
 
