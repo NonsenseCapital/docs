@@ -66,3 +66,4 @@ Feel free to commit any links, books, papers related to reputation, economics, g
  - Homage to Catalonia
  - [Contra Robinson on Public Food](http://slatestarcodex.com/2017/11/21/contra-robinson-on-public-food/)
  - [Token Engineering Wiki](http://tokenengineering.net)
+ - [Crypto Commons](https://medium.com/@m2jr/crypto-commons-da602fb98138)
