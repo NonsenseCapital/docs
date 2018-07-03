@@ -24,6 +24,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - [Governance, Part 2: Plutocracy Is Still Bad](https://vitalik.ca/general/2018/03/28/plutocracy.html)
 - [Majority Judgement](https://mitpress.mit.edu/books/majority-judgment): a new theory and method of voting, judging and ranking, majority judgment
 - [The Most Intolerant Wins: The Dictatorship of the Small Minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)
+- [On-Chain Vote Buying and the Rise of Dark DAOs](http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/)
 
 ## Dispute Resultion
 
