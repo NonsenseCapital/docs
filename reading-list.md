@@ -42,6 +42,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 
 - [Awesome Cryptoeconomics - Reading List](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Making sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics/)
+- [The Price of Inequality: How Today's Divided Society Endangers Our Future](https://www.amazon.com/Price-Inequality-Divided-Society-Endangers-ebook/dp/B007MKCQ30)
 
 #### Central banking
 - [Lombard Street: A Description of the Money Market](https://www.amazon.com/Lombard-Street-Description-Money-Market/dp/0471344990)
