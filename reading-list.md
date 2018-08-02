@@ -18,7 +18,6 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - [Blockchain Technology and Decentralized Governance: Is the State Still Necessary?](http://nzz-files-prod.s3-website-eu-west-1.amazonaws.com/files/9/3/1/blockchain+Is+the+State+Still+Necessary_1.18689931.pdf)
 - [Tolstoy on Anarchy](https://theanarchistlibrary.org/library/leo-tolstoy-on-anarchy)
 
-
 ## Governance
 
 - [The Tyranny of Structurelessness](https://static1.squarespace.com/static/555557d5e4b0cc5c1ed71116/t/57e03ffb20099ef5d08202a6/1474314240758/TyrannyStructureless.pdf)
