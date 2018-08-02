@@ -39,7 +39,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - The Stranger by Albert Camus
 - The Consolation of Philosophy by Ancius Boethius
 - Finite and Infinite Games by James P. Carse
-- [Bertrand Russell on how we can combine the degree of individual initiative which is necessary for progress with the degree of social cohesion that is necessary for survival](https://www.youtube.com/watch?v=9EF4I7HM0zI&t=652s)
+- [Authority and the Individual](https://www.youtube.com/watch?v=9EF4I7HM0zI&t=652s), Bertrand Russell on how we can combine the degree of individual initiative which is necessary for progress with the degree of social cohesion that is necessary for survival.
 
 ## Economics
 
