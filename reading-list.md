@@ -16,6 +16,8 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 
 - Reinventing Anarchy, Again.
 - [Blockchain Technology and Decentralized Governance: Is the State Still Necessary?](http://nzz-files-prod.s3-website-eu-west-1.amazonaws.com/files/9/3/1/blockchain+Is+the+State+Still+Necessary_1.18689931.pdf)
+- [Tolstoy on Anarchy](https://theanarchistlibrary.org/library/leo-tolstoy-on-anarchy)
+
 
 ## Governance
 
@@ -37,6 +39,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - The Stranger by Albert Camus
 - The Consolation of Philosophy by Ancius Boethius
 - Finite and Infinite Games by James P. Carse
+- [Bertrand Russell on how we can combine the degree of individual initiative which is necessary for progress with the degree of social cohesion that is necessary for survival](https://www.youtube.com/watch?v=9EF4I7HM0zI&t=652s)
 
 ## Economics
 
