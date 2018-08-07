@@ -26,6 +26,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - [The Most Intolerant Wins: The Dictatorship of the Small Minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)
 - [On-Chain Vote Buying and the Rise of Dark DAOs](http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/)
 - [Engineering Security Through Coordination Problems](https://vitalik.ca/general/2017/05/08/coordination_problems.html)
+- [Information Civics - Deconstructing the power structures of large-scale social computing networks](https://infocivics.com/)
 
 ## Dispute Resultion
 
