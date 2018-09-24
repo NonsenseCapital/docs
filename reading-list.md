@@ -33,6 +33,8 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 
 - [A Philosophical Approach to Alternative Dispute Resolution Systems](https://www.mediate.com/articles/SustacZ5.cfm)
 - [The Jurisprudence Of Polycentric Law](http://tomwbell.com/writings/JurisPoly.html)
+- [Building on O Arb Attributes in Pursuit of Justice](https://poseidon01.ssrn.com/delivery.php?ID=215100024064086067087070068090106097006055010034088013102067107077022124009067084022107126035023117057029103012086094020102096044036094014080127087073108087029097057003081083120090127025102027120094105115074098101116096067118024000121002084070097029&EXT=pdf)
+- [The New Handshake: Where We Are Now](https://scholarship.law.missouri.edu/cgi/viewcontent.cgi?referer=https://www.google.de/&httpsredir=1&article=1614&context=facpubs)
 
 ## Philosophy
 
