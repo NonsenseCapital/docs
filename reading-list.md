@@ -70,6 +70,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
  - [This is the dream time](http://www.overcomingbias.com/2009/09/this-is-the-dream-time.html)
  - [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
  - [Digital Maoism](https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism)
+ - [The Self-Defeating Prophecy](https://unintendedconsequenc.es/the-self-defeating-prophecy/)
 
 ## Other
  - Homage to Catalonia
