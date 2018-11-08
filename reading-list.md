@@ -78,3 +78,4 @@ Feel free to commit any links, books, papers related to reputation, economics, g
  - [I Can Tolerate Anything Except The Outgroup](http://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/) - This works well together with Toxoplasma of rage.
  - [Token Engineering Wiki](http://tokenengineering.net)
  - [Crypto Commons](https://medium.com/@m2jr/crypto-commons-da602fb98138)
+ - [Inequality and Skin in the Game](https://medium.com/incerto/inequality-and-skin-in-the-game-d8f00bc0cb46)
